@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #121212; /* Dark background */
+  color: #ffffff; /* Light text color */
+}
+
+a {
+  color: #bb86fc; /* Accent color for links */
+}
+
+button {
+  background-color: #333333;
+  color: #ffffff;
+  border: 1px solid #444444;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
